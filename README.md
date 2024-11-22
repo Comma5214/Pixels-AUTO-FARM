@@ -1,2 +1,2 @@
 # Pixels-AUTO-FARM
-Proje geliştirme aşamasındadır.
+The project is under development.
